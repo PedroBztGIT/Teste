@@ -3,3 +3,4 @@ uma
 atualização
 do código
 X
+enviando a funcionalidade b
